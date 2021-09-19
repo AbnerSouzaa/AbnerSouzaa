@@ -11,8 +11,8 @@ I'm Brazilian and I'm an undergradute Computer Science student at UFPB.
 ####
   <div>
   <a href="https://github.com/AbnerSouzaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AbnerSouzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerSouzaa&layout=compact&langs_count=7&theme=tokyonight"/>
    </div>
   
 ### Tools:  
