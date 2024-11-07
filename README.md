@@ -24,6 +24,7 @@ I'm Brazilian and I'm an undergradute Computer Science student at UFPB
   ![ReactJS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
   
 
   
