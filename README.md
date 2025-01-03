@@ -1,12 +1,5 @@
 ## Hi, Welcome to my Git Hub Profile 👋
 
-### About Me:
-
-I'm Brazilian and I'm an undergradute Computer Science student at UFPB
-
-### Working On:
-- Currently studying swift language mainly for iOS development
-- Mobile iOS development intern by fuze.cc - LAVID
 
 ####
   <div>
