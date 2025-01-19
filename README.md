@@ -1,18 +1,6 @@
 ## Hi, Welcome to my Git Hub Profile 👋
 
 
-
-
-  
-
-  
-  
-  
-  
-<!--  </div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Abny-gif" src="https://i.imgur.com/vT4Oclk.gif">
-</div> -->
   
   
   
